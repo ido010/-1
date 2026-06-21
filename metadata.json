@@ -1,0 +1,6 @@
+{
+  "name": "I:DO Design Studio",
+  "description": "I:DO Design Studio - 디자인 스튜디오 아카이브",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
